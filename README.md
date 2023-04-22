@@ -24,7 +24,7 @@ _**Disclaimer: This notebook is best viewed using Jupyter Notebook or Visual Stu
 
 ## Contributors
 ***
-- @skylimm (Sky Lim En Xing) - Data Pre-processing, Models, Slides, Github Integration & Model Analysis 
+- @skylimm (Sky Lim En Xing) - Data Pre-processing, Models, Model Analysis, Slides & Github Integration
 - @HollowGale (Thomas Tan Keat Hao) - Model Analysis, Video Presentation, Slides & Exploratory Data Analysis
 - @... (Chermine Cheah Xue Min) - Data Importation, Description, Exploratory Data Analysis & Visualization
 
