@@ -4,15 +4,15 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 _**Disclaimer: Individual Codes do not work separately, it is merely for easy-viewing of separate sections.**_
 For a detailed walkthrough please view the source code in order: 
-1. [Data Importation & Description](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Data%20Importation%20%26%20Description.ipynb)
-2. [Data Pre-processing](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Data%20Pre-processing.ipynb)
-3. [Exploratory Data Analysis & Visualisation](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Exploratory%20Data%20Analysis%20%26%20Visualization.ipynb)
-4. [Methodology](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Methodology.ipynb)
-5. [Experiments](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Experiments.ipynb)
-6. [Conclusion](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Conclusion.ipynb)
+1. [Data Importation & Description](https://github.com/skylimm/SC1015-Car-Price-Prediction/blob/main/Data%20Importation%20%26%20Description.ipynb)
+2. [Data Pre-processing](https://github.com/skylimm/SC1015-Car-Price-Prediction/blob/main/Data%20Pre-processing.ipynb)
+3. [Exploratory Data Analysis & Visualisation](https://github.com/skylimm/SC1015-Car-Price-Prediction/blob/main/Exploratory%20Data%20Analysis%20%26%20Visualization.ipynb)
+4. [Methodology](https://github.com/skylimm/SC1015-Car-Price-Prediction/blob/main/Methodology.ipynb)
+5. [Experiments](https://github.com/skylimm/SC1015-Car-Price-Prediction/blob/main/Experiments.ipynb)
+6. [Conclusion](https://github.com/skylimm/SC1015-Car-Price-Prediction/blob/main/Conclusion.ipynb)
 
 OR<br />
-View the [Whole Code](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Car%20Prediction.ipynb)  <br />
+View the [Whole Code](https://github.com/skylimm/SC1015-Car-Price-Prediction/blob/main/Car%20Prediction.ipynb)  <br />
 
 
 _**Disclaimer: This notebook is best viewed using Jupyter Notebook or Visual Studio Code our plotly charts are unable to render via github's online notebook view.**_
