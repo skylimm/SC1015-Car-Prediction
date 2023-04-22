@@ -1,9 +1,8 @@
 # SC1015 Car Price Prediction
-***
 ![Alt text](https://github.com/skylimm/SC1015-Car-Price-Prediction/blob/main/img.png)
-***
-## Introduction
 
+## Introduction
+***
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) 2023. We will be predicting car price based on different features of a car. The dataset which we are using is [car_sales.csv](https://www.kaggle.com/datasets/smritisingh1997/car-salescsv?topic=internetDataset) from [Kaggle](https://www.kaggle.com).  <br />
 
 _**Disclaimer: Individual Codes do not work separately, it is merely for easy-viewing of separate sections.**_  <br />
@@ -21,42 +20,46 @@ View the [Whole Code](https://github.com/skylimm/SC1015-Car-Price-Prediction/blo
 
 _**Disclaimer: This notebook is best viewed using Jupyter Notebook or Visual Studio Code.**_
 
-***
-## Contributors
 
+## Contributors
+***
 - @skylimm (Sky Lim En Xing) - Data Pre-processing, Models, Slides, Github Integration & Model Analysis 
 - @HollowGale (Thomas Tan Keat Hao) - Model Analysis, Video Presentation, Slides & Exploratory Data Analysis
 - @... (Chermine Cheah Xue Min) - Data Importation, Description, Exploratory Data Analysis & Visualization
 
-***
+
 ## Problem Definition
 - How do we predict prices using different features of a car to help budget-conscious car-buyers ?
-
 ***
+
 ## Models Used
+***
 1. Linear Regression (BaseLine Model)
 2. Lasso
 3. Gradient Regressor Booster
 4. Ridge Regression
 
-***
+
 ## Conclusion
+***
 - Gradient Boosting Regression is the best model out of the 4 available models to predict car prices based on each feature of a car.
 - Gradient Boosting Regression has a 0.9/1.0 for R², an almost perfect score for its predictive capabilities.
 - Most of our regression models are decently accurate and predictive and can help carbuyers make an accurate estimation of any car's price.
 - However, all our regression models do suffer some overfitting of data.
 - We can use Lasso and Ridge Regression models in conjunction with Gradient Boosting Regression to offset some overfitting of data through a process called Regularisation
 
-***
+
 ## What did we learnt from this project?
+***
 - Basic exploratory analysis using numpy and pandas.
 - Data visualisation techniques via Seaborn and Matplotlib libraries.
 - Data encoding techniques (e.g. OneHot and Label encoding) to convert categorical data to usable inputs for machine learning models
 - Importance of parameters in Regression Models' functionality, and how to optimise it through HyperTuning
 - Efficient hyptertuning through the implementation of GridSearch
 
-***
+
 ## References
+***
 car_sales.csv. (2020, May 9). Kaggle. https://www.kaggle.com/datasets/smritisingh1997/car-salescsv
 https://www.kaggle.com/code/smritisingh1997/car-price-prediction-using-linear-regression/input
 
