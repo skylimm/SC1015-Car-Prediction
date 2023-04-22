@@ -24,7 +24,7 @@ _**Disclaimer: This notebook is best viewed using Jupyter Notebook or Visual Stu
 
 ## Contributors
 ***
-- @skylimm (Sky Lim En Xing) - Data Pre-processing, Models, Model Analysis, Slides & Github Integration
+- @skylimm (Sky Lim En Xing) - Data Pre-processing, Models, Slides, Github Integration & Model Analysis 
 - @HollowGale (Thomas Tan Keat Hao) - Model Analysis, Video Presentation, Slides & Exploratory Data Analysis
 - @... (Chermine Cheah Xue Min) - Data Importation, Description, Exploratory Data Analysis & Visualization
 
@@ -43,11 +43,19 @@ _**Disclaimer: This notebook is best viewed using Jupyter Notebook or Visual Stu
 
 ## Conclusion
 ***
-
+- Gradient Boosting Regression is the best model out of the 4 available models to predict car prices based on each feature of a car.
+- Gradient Boosting Regression has a 0.9/1.0 for R², an almost perfect score for its predictive capabilities.
+- Most of our regression models are decently accurate and predictive and can help carbuyers make an accurate estimation of any car's price.
+- However, all our regression models do suffer some overfitting of data.
+- We can use Lasso and Ridge Regression models in conjunction with Gradient Boosting Regression to offset some overfitting of data through a process called Regularisation
 
 ## What did we learnt from this project?
 ***
-
+- Basic exploratory analysis using numpy and pandas.
+- Data visualisation techniques via Seaborn and Matplotlib libraries.
+- Data encoding techniques (e.g. OneHot and Label encoding) to convert categorical data to usable inputs for machine learning models
+- Importance of parameters in Regression Models' functionality, and how to optimise it through HyperTuning
+- Efficient hyptertuning through the implementation of GridSearch
 
 ## References
 ***
