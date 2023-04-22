@@ -3,13 +3,12 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) 2023. We will be predicting car price based on different features of a car. The dataset which we are using is [car_sales.csv](https://www.kaggle.com/datasets/smritisingh1997/car-salescsv?topic=internetDataset) from [Kaggle](https://www.kaggle.com).
 
 For a detailed walkthrough please view the source code in order: (WARNING! CODE DOES NOT WORK SEPARATELY, THIS IS ONLY FOR DETAILING THE DIFFERENT SECTIONS)
-1. [Data Importation & Description] (doc:Data Importation & Description.ipynb)
-
-2. Data Pre-processing
-3. Exploratory Data Analysis & Visualisation
-4. Methodology 
-5. Experiments
-6. Conclusion (Summary findings & Limitations + Improvements)
+1. [Data Importation & Description](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Data%20Importation%20%26%20Description.ipynb)
+2. [Data Pre-processing](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Data%20Pre-processing.ipynb)
+3. [Exploratory Data Analysis & Visualisation](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Exploratory%20Data%20Analysis%20%26%20Visualization.ipynb
+4. [Methodology](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Methodology.ipynb)
+5. [Experiments](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Experiments.ipynb)
+6. [Conclusion]()
 
 OR
 View the Whole Code
