@@ -11,8 +11,7 @@ For a detailed walkthrough please view the source code in order: (WARNING! CODE 
 6. [Conclusion](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Conclusion.ipynb)
 
 OR
-View the [Whole Code]
-(As the dataset was too large to upload to github, we have compressed it into a .rar file)
+View the [Whole Code](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Car%20Prediction.ipynb)
 
 
 ## Contributors
