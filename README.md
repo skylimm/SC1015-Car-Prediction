@@ -36,7 +36,7 @@ SC1015 A137 Team 6:
 
 ## Models Used
 ***
-1. Linear Regression
+1. Linear Regression (BaseLine Model)
 2. Lasso
 3. Gradient Regressor Booster
 4. Ridge Regression
