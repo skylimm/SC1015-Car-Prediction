@@ -41,8 +41,10 @@ SC1015 A137 Team 6:
 
 
 ## What did we learnt from this project?
+
+
+
 ## References
-### References
 car_sales.csv. (2020, May 9). Kaggle. https://www.kaggle.com/datasets/smritisingh1997/car-salescsv
 https://www.kaggle.com/code/smritisingh1997/car-price-prediction-using-linear-regression/input
 
