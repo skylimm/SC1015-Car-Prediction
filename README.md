@@ -16,7 +16,7 @@ OR<br />
 View the [Whole Code](https://github.com/skylimm/SC1015-Car-Price-Prediction/blob/main/Car%20Prediction.ipynb)  <br />
 
 
-_**Disclaimer: This notebook is best viewed using Jupyter Notebook or Visual Studio Code our plotly charts are unable to render via github's online notebook view.**_
+_**Disclaimer: This notebook is best viewed using Jupyter Notebook or Visual Studio Code.**_
 
 
 ## Contributors
