@@ -42,10 +42,10 @@ _**Disclaimer: This notebook is best viewed using Jupyter Notebook or Visual Stu
 
 ## Conclusion
 ***
-* Using different machine learning models, we are able to predict car prices based on different features of a car.
+1) Using different machine learning models, we are able to predict car prices based on different features of a car.
   * Gradient Boosting Regression is the best model out of the 4 available models to predict car prices based on each feature of a car.
   * Gradient Boosting Regression has a 0.9/1.0 for R², an almost perfect score for its predictive capabilities.
-* Most of our regression models are decently accurate and predictive and can help carbuyers make an accurate estimation of any car's price.
+2) Most of our regression models are decently accurate and predictive and can help carbuyers make an accurate estimation of any car's price.
   * However, all our regression models do suffer some overfitting of data.
   * We can use Lasso and Ridge Regression models in conjunction with Gradient Boosting Regression to offset some overfitting of data through a process called Regularisation.
 
