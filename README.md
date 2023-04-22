@@ -1,7 +1,9 @@
 # SC1015 Car Price Prediction
+***
 ![Alt text](https://github.com/skylimm/SC1015-Car-Price-Prediction/blob/main/img.png)
 
 ## Introduction
+***
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) 2023. We will be predicting car price based on different features of a car. The dataset which we are using is [car_sales.csv](https://www.kaggle.com/datasets/smritisingh1997/car-salescsv?topic=internetDataset) from [Kaggle](https://www.kaggle.com).  <br />
 
 _**Disclaimer: Individual Codes do not work separately, it is merely for easy-viewing of separate sections.**_  <br />
@@ -21,6 +23,7 @@ _**Disclaimer: This notebook is best viewed using Jupyter Notebook or Visual Stu
 
 
 ## Contributors
+***
 SC1015 A137 Team 6:
 - @skylimm (Sky Lim En Xing) - 
 - @HollowGale (Thomas Tan Keat Hao) - 
@@ -28,9 +31,11 @@ SC1015 A137 Team 6:
 
 
 ## Problem Definition
+***
 - How do we predict prices using different features of a car to help budget-conscious car-buyers ?
 
 ## Models Used
+***
 1. Linear Regression
 2. Lasso
 3. Gradient Regressor Booster
@@ -38,14 +43,15 @@ SC1015 A137 Team 6:
 
 
 ## Conclusion
-
+***
 
 
 ## What did we learnt from this project?
-
+***
 
 
 ## References
+***
 car_sales.csv. (2020, May 9). Kaggle. https://www.kaggle.com/datasets/smritisingh1997/car-salescsv
 https://www.kaggle.com/code/smritisingh1997/car-price-prediction-using-linear-regression/input
 
