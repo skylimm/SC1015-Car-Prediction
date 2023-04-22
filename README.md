@@ -3,7 +3,7 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) 2023. We will be predicting car price based on different features of a car. The dataset which we are using is [car_sales.csv](https://www.kaggle.com/datasets/smritisingh1997/car-salescsv?topic=internetDataset) from [Kaggle](https://www.kaggle.com).
 
 For a detailed walkthrough please view the source code in order: (WARNING! CODE DOES NOT WORK SEPARATELY, THIS IS ONLY FOR DETAILING THE DIFFERENT SECTIONS)
-1. [Data Importation & Description](doc:Data Importation & Description.ipynb)
+1. [Data Importation & Description] (doc:Data Importation & Description.ipynb)
 
 2. Data Pre-processing
 3. Exploratory Data Analysis & Visualisation
