@@ -53,6 +53,7 @@ _**Disclaimer: This notebook is best viewed using Jupyter Notebook or Visual Stu
 ***
 - Basic exploratory analysis using numpy and pandas.
 - Data visualisation techniques via Seaborn and Matplotlib libraries.
+- Data engineering via cleaning (IQR technique) and transforming raw data (StandardScaling, Data Conversion) to allow our data to be more easily used for machine learning models.
 - Data encoding techniques (e.g. OneHot and Label encoding) to convert categorical data to usable inputs for machine learning models
 - Importance of parameters in Regression Models' functionality, and how to optimise it through HyperTuning
 - Efficient hyptertuning through the implementation of GridSearch
