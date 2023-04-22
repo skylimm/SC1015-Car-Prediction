@@ -5,13 +5,13 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 For a detailed walkthrough please view the source code in order: (WARNING! CODE DOES NOT WORK SEPARATELY, THIS IS ONLY FOR DETAILING THE DIFFERENT SECTIONS)
 1. [Data Importation & Description](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Data%20Importation%20%26%20Description.ipynb)
 2. [Data Pre-processing](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Data%20Pre-processing.ipynb)
-3. [Exploratory Data Analysis & Visualisation](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Exploratory%20Data%20Analysis%20%26%20Visualization.ipynb
+3. [Exploratory Data Analysis & Visualisation](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Exploratory%20Data%20Analysis%20%26%20Visualization.ipynb)
 4. [Methodology](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Methodology.ipynb)
 5. [Experiments](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Experiments.ipynb)
-6. [Conclusion]()
+6. [Conclusion](https://github.com/skylimm/SC1015-Car-Prediction/blob/main/Conclusion.ipynb)
 
 OR
-View the Whole Code
+View the [Whole Code]
 (As the dataset was too large to upload to github, we have compressed it into a .rar file)
 
 
