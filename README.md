@@ -6,9 +6,9 @@ For a detailed walkthrough please view the source code in order: (WARNING! CODE 
 1. Data Importation & Description
 2. Data Pre-processing
 3. Exploratory Data Analysis & Visualisation
-4. Methodology (Models)
+4. Methodology 
 5. Experiments
-6. Conclusion (Summary findings & Limitations/Improvements)
+6. Conclusion (Summary findings & Limitations + Improvements)
 
 OR
 View the Whole Code
