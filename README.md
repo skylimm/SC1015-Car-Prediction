@@ -24,10 +24,9 @@ _**Disclaimer: This notebook is best viewed using Jupyter Notebook or Visual Stu
 
 ## Contributors
 ***
-SC1015 A137 Team 6:
-- @skylimm (Sky Lim En Xing) - 
-- @HollowGale (Thomas Tan Keat Hao) - 
-- @... (Chermine Cheah Xue Min)
+- @skylimm (Sky Lim En Xing) - Data Pre-processing, Models, Slides, Github Integration & Model Analysis 
+- @HollowGale (Thomas Tan Keat Hao) - Model Analysis, Video Presentation, Slides & Exploratory Data Analysis
+- @... (Chermine Cheah Xue Min) - Data Importation, Description, Exploratory Data Analysis & Visualization
 
 
 ## Problem Definition
