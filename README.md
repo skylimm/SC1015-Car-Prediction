@@ -1,4 +1,4 @@
-# SC1015 Car Prediction
+# SC1015 Car Price Prediction
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) 2023. We will be predicting car price based on different features of a car. The dataset which we are using is [car_sales.csv](https://www.kaggle.com/datasets/smritisingh1997/car-salescsv?topic=internetDataset) from [Kaggle](https://www.kaggle.com).  <br />
 
